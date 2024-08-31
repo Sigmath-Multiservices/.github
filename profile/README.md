@@ -1,0 +1,1 @@
+Sigmath Multiservices is an award-winning tutoring company based in Minneapolis–Saint Paul, Minnesota. This GitHub organization, currently a work in progress, will host the code for Sigmath's website and mobile app.
